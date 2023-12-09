@@ -17,6 +17,7 @@ Aplicação em produção: [https://kenzie-feed-six.vercel.app](https://kenzie-f
 - React Router
 
 ### Repositório original 
+Este projeto foi desenvolvido juntamente com outros desenvolvedores alunos da Kenzie Academy. Observações Abaixo
 [https://github.com/Grupo-1-T17-M3-Raphael/kenzie-feed-m3-t17-grupo1-raphael](https://github.com/Grupo-1-T17-M3-Raphael/kenzie-feed-m3-t17-grupo1-raphael)
 ![Repositório Original](repo_print.jpg)
 
